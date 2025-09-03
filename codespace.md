@@ -1,1 +1,5 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)<img width="487" height="69" alt="image" src="https://github.com/user-attachments/assets/0df83e06-934b-486a-a478-a2392e2f972c" />
+"
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+"
+<img width="487" height="128" alt="image" src="https://github.com/user-attachments/assets/e0109319-59d5-45f3-bd40-567d22182a75" />
